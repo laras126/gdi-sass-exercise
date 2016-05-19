@@ -108,6 +108,37 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* Elements */
+
+.btn,
+.btn-success {
+  padding: 14px 18px;
+  background-color: #D65654;
+  border-radius: 5px;
+  color: #FFF;
+}
+
+.btn:hover {
+  background-color: #B83634;
+  text-decoration: none;
+}
+
+.btn:active {
+  background-color: #B02724;
+}
+
+.btn-success {
+  background-color: #6BCC86;
+}
+
+.btn-success:hover {
+  background-color: #4EB159;
+}
+
+.btn-success:active {
+  background-color: #2E954A;
+}
+
 
 
 /* Media Queries */
