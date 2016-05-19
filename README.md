@@ -20,9 +20,11 @@ Hello, hello! This is a repository containing a static HTML and CSS website. You
 5. Move the styles in the media query to inside the relevant selectors
 6. Use color functions to adjust link hover styles
 7. Create a button mixin
-8. Add another button with the mixin
+8. Add another style of button using the mixin
 
 #### Bonus
 
-1. Use the Sass random function on the background color
-2.
+1. Use the [Sass random](https://blog.codepen.io/2013/08/26/random-function-in-sass/) function
+2. Add another parameter to the button mixin
+3. Add a footer menu to the site, referencing the formatting of the top nav
+4. Create a mixin for adding hover transitions of varying speeds
