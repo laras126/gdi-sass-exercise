@@ -28,3 +28,5 @@ Hello, hello! This is a repository containing a static HTML and CSS website. You
 2. Add another parameter to the button mixin
 3. Add a footer menu to the site, referencing the formatting of the top nav
 4. Create a mixin for adding hover transitions of varying speeds
+5. Create a sizing scale for typography, [like this](https://github.com/laras126/yuling-theme/blob/ls-tweaks/assets/scss/utils/_variables.scss#L68) one
+6. Play around with the [Simple Sassy Starter](https://github.com/laras126/simple-sassy-starter)
